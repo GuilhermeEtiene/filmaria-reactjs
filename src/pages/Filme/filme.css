@@ -1,0 +1,13 @@
+.filme-info{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.filme-info img{
+    max-width: 600px;
+    border-radius: 15px;
+}
