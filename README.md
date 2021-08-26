@@ -1,4 +1,4 @@
-<h2>Comandos para rodar a aplicação</h2><br>
+<h2>Comandos para rodar a aplicação</h2>
 npm install (Para instalar as dependencias do projeto)<br>
 npm start
 
