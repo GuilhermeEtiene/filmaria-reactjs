@@ -1,5 +1,5 @@
-Comandos para rodar a aplicação
-npm install (Para instalar as dependencias do projeto)
+Comandos para rodar a aplicação<br>
+npm install (Para instalar as dependencias do projeto)<br>
 npm start
 
 ##
