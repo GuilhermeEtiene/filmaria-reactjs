@@ -16,8 +16,8 @@ https://app-filmaria.netlify.app
 ##
 
 Tecnologias utilizadas:
-React JS
-React Router Dom
-React icons
-React Toastify
+React JS<br/>
+React Router Dom<br/>
+React icons<br/>
+React Toastify<br/>
 Axios
